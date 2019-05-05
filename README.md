@@ -2,6 +2,17 @@
 
 Implemtentation of the *Geometry Aware Convolutional Filters for Omnidirectional Images Representation* ICML 2019 paper
 
+## Installation
+
+* to install all the dependencies run:
+```
+pip install -r requirements.txt
+```
+* add the path to the code to the `PYTHONPATH` environment variable as shown below:
+```
+export PYTHONPATH=<path_to_the_code>:$PYTHONPATH
+```
+
 ## Usage
 
 This code implements the classification experiment described in the paper. In order to train a model download the dataset, as described in the following section and run
