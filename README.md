@@ -54,7 +54,7 @@ cd ../
 ## References
 
 If you are using the code please cite the following paper:
-```coffeescript
+```
 @inproceedings{KhasanovaICML19,
 	author    = {Reanta Khasanova and Pascal Frossard},
 	title     = {Geometry Aware Convolutional Filters for Omnidirectional Images Representation},
